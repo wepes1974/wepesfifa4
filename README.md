@@ -65,10 +65,7 @@ http://robonchu.hatenablog.com/entry/2017/08/21/163135
 点間の距離を求める
 
 https://teratail.com/questions/105400
-
-
 https://tokibito.hatenablog.com/entry/20121222/1356187172
-
 http://programming.blogo.jp/python/numpy/%E3%83%8E%E3%83%AB%E3%83%A0
 
 
