@@ -75,3 +75,5 @@ http://programming.blogo.jp/python/numpy/%E3%83%8E%E3%83%AB%E3%83%A0
 
 http://pluscolorn.sub.jp/rgbseachtest3_1.php?1id=61
 
+
+## 実行の様子 Youtube内での動画リンク
