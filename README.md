@@ -1,7 +1,8 @@
 ## 概要 
 サッカー, フォーメーションから見るパスコース・ヒートマップ図を表示させるコード
 
-football_pass.pyではパスコース \\
+football_pass.pyではパスコース
+
 football_heatmap.pyではヒートマップをそれぞれ表示させる
 
 
