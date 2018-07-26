@@ -78,5 +78,6 @@ http://pluscolorn.sub.jp/rgbseachtest3_1.php?1id=61
 
 ## 実行の様子 Youtube内での動画リンク
 
-フォーメションは4-4-2
+フォーメションは4-4-2の場合
+
 https://youtu.be/5viTYECpH-E
